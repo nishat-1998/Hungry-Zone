@@ -168,7 +168,7 @@ body{
     width: 10px;
 }
 .meal-details::-webkit-scrollbar-thumb{
-    background: #f0f0f0;
+    background: #fdf2f2;
     border-radius: 2rem;
     -webkit-border-radius: 2rem;
     -moz-border-radius: 2rem;
@@ -306,6 +306,6 @@ body{
 
 @media screen and (min-width: 992px){
     #meal{
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
     }
 }
